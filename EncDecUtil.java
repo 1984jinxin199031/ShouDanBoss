@@ -48,5 +48,7 @@ public class EncDecUtil {
 	
 	public static void main(String[] args) {
 		System.out.println("6lldefcabd8ffd3c417c932d2fe7c3c8a9f0e7c6de8ca971".length());
+
+		
 	}
 }
